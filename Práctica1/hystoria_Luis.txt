@@ -13,5 +13,5 @@ Luis entra en dos días al master 🤭
 Luis, está batallando para clonar un disco 😥😥
 Luis ha aprendido a cambiar la URL de un repositorio remoto en git 😀😀
 Luis es una caja de monerias 🥰
-Luis ha cambiado su correo en git de luis3.14xbox@gmail a luis.14xbox@live.com.mx
+Luis ha cambiado su correo en git de luis3.14xbox@gmail a luis.14xbox@live.com.mx, ahora sí
 
