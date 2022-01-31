@@ -8,6 +8,9 @@ Luis nacio en Delicias, chihuahua pero ahora vive en chihuahua.
 Luis es ingeniero Electromecánico 
 y es muy guapo 🥰
 Y estudia git 
+
+    experimento 2
+
 ya pudó entrar a la rama master XD 
 Luis entra en dos días al master 🤭
 Luis, está batallando para clonar un disco 😥😥
@@ -16,4 +19,7 @@ Luis es una caja de monerias 🥰
 Luis ha cambiado su correo en git de luis3.14xbox@gmail a luis.14xbox@live.com.mx, ahora sí
 Luis no tuvo clase de matematicas computacionales, pero aprobecho para estudiar git 
 Luis en este momento está estudiando github, está viendo el tema de rease 😁
+Rama experimento hahahahah (risa malvada)
+
+experimento 1
 
